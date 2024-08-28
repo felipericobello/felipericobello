@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm Felipe Ricobello, a college student at Univers
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipericobello&show_icons=true&hide_border=true&theme=radical)
 
+
 ## 🌟 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipericobello&layout=compact&theme=radical)
